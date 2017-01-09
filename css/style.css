@@ -1,0 +1,56 @@
+div article {
+	display: inline-block;
+	float: left;
+	width: 30%;
+	border: solid 1px lightblue;
+	margin: .5em;
+}
+
+footer {
+	font-weight: normal;
+	font-size: .75em;
+}
+
+section p {
+	margin: 0;
+	padding: 0;
+}
+
+img {
+	display: block;
+    margin: auto;
+    width: 30%;
+}
+
+.title {
+	border: dotted 1px lightgray;
+	margin-top: 0;
+	text-align: center;
+}
+
+.neat {
+	text-align: justify;
+	margin: .5em;
+}
+
+.strong {
+	font-weight: bold;
+}
+
+.availability {
+	background-color:gray;
+	color: yellow;
+	margin-bottom: 1em;
+	padding-left: .3em;
+}
+
+section.strong h3 {
+	margin-top: 0;
+	margin-left: 5px;
+	margin-bottom: 0;
+}
+
+section.strong p {
+	margin-left: 10px;
+	padding-bottom: 2px;
+}
