@@ -4,21 +4,14 @@
 
 Your task is to build a grid of cards for a company's products. Here are the requirements for the basic structure of the cards.
 
-Each card should be an article.
-
-Each card should take up 30% of the width of the browser window.
-
-Each product should contain a header element that, itself, contains an h2 element where the product's title will be written.
-
-Each product should have three sections.
-
-The first section should contain three child block elements.
-
-The first element contains the product image.
-
-The second element contains the product description.
-
-The third element contains the product availability (e.g. "Available" or "Not Available")
+	Each card should be an article.
+	Each card should take up 30% of the width of the browser window.
+	Each product should contain a header element that, itself, contains an h2 element where the product's title will be written.
+	Each product should have three sections.
+	The first section should contain three child block elements.
+	The first element contains the product image.
+	The second element contains the product description.
+	The third element contains the product availability (e.g. "Available" or "Not Available")
 
 
 The second section contains product specifications.
